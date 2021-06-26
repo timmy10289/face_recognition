@@ -25,7 +25,7 @@ pip install opencv-python (會用到裡面的cv2套件)
 ![image](https://github.com/timmy10289/face_recognition/blob/main/detect.jpg)  
 
 運行結果
-________
+=======
 
 ![image](https://github.com/timmy10289/face_recognition/blob/main/result1.jpg)  
 ![image](https://github.com/timmy10289/face_recognition/blob/main/frame.jpg)  
