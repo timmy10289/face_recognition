@@ -20,12 +20,26 @@ pip install opencv-python (會用到裡面的cv2套件)
 程式碼
 ======
 
-先偵測預設照片(face_detection.py)
+先偵測預設照片(me.jpg)放到face-detection.py裡面
 
 ![image](https://github.com/timmy10289/face_recognition/blob/main/detect.jpg)  
-最後把要對照得照片做臉部圖像的編碼比對(face_recognition.py)   
 
-![image](https://github.com/timmy10289/face_recognition/blob/main/recognition.jpg)  
+運行結果
+________
+
+![image](https://github.com/timmy10289/face_recognition/blob/main/result1.jpg)  
+![image](https://github.com/timmy10289/face_recognition/blob/main/frame.jpg)  
+
+最後把我自己的照片做比對(me-now.jpg)  
+
+把照片放到face_recognition.py 並執行  
+
+![image](https://github.com/timmy10289/face_recognition/blob/main/recognition1.jpg)  
+
+結果
+====
+
+
 參考資料
 ======
 https://hjwang520.pixnet.net/blog/post/404096783-%E5%9C%A8anaconda%E6%88%90%E5%8A%9F%E5%AE%89%E8%A3%9Dopencv%E3%80%81dlib%E5%92%8Cface_recognition  
