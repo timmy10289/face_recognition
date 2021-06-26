@@ -38,7 +38,13 @@ ________
 
 結果
 ====
+先列出預設照片的編碼  
+![image](https://github.com/timmy10289/face_recognition/blob/main/result2.jpg)  
 
+再列出要偵測的照片編碼並做比對
+![image](https://github.com/timmy10289/face_recognition/blob/main/result3.jpg)  
+
+結果顯示為true，比對成功!!
 
 參考資料
 ======
