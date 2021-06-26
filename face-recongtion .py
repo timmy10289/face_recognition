@@ -3,7 +3,7 @@ import face_recognition
 #將對照的圖片放入數組(如果是電腦上的路徑要用絕對路徑，而且斜線用雙斜線,不然會錯誤)
 chen_image = face_recognition.load_image_file("D:\\Desktop\\picture\\me.jpg")
 #選擇辨認的圖片
-unknown_image = face_recognition.load_image_file("D:\\Desktop\\picture\\me_now.jpg")
+unknown_image = face_recognition.load_image_file("D:\\Desktop\\picture\\me-now.jpg")
 
 #獲取每張臉部圖片中的臉部编碼
 #由於每个圖像中可能有多個面，所以只返回一個编碼列表。
